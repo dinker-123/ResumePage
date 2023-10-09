@@ -1,0 +1,7 @@
+#container{
+    height:400px;
+    width:400px;
+    margin:40px;
+    border:2px solid black;
+    background:linear-gradient(30deg,#2857a4,#403066 70%);    
+}
